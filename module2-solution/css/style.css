@@ -51,6 +51,7 @@ p {
   margin-right: auto;
   margin-left: auto;
   color: black;
+  overflow: auto;
 }
 
 .row {
