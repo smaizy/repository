@@ -16,7 +16,8 @@ h1 {
 	padding: 0px 15px 0px 15px;
 	font-size: 1.8em;
 	float: right;
-  opacity: .8;
+  	opacity: .8;
+	overflow: auto;
 }
 
 .region1 {
